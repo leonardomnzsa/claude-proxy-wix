@@ -1,1 +1,12 @@
-
+{
+  "name": "claude-proxy-wix",
+  "version": "1.0.0",
+  "description": "Proxy para conectar Wix com Claude API",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": "18.x"
+  }
+}
